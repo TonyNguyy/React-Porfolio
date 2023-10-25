@@ -1,6 +1,7 @@
 import React from 'react'
 import "./portfolio.css"
 import IMG1 from "../../assets/moon.jpg"
+import realtor from "../../assets/RealtorPicture.png"
 
 const Portfolio = () => {
   return (
@@ -12,12 +13,12 @@ const Portfolio = () => {
 
       <article className="portfolio__item">
         <div className="portfolio__item-image">
-          <img src={IMG1} alt="Portfolio-image" />
+          <img src={realtor} alt="Realtor-Website" />
         </div>
-        <h3>Project Title</h3>
+        <h3>Realtor Ecommerce Platform</h3>
         <div className="portfolio__item-cta">
-        <a href="https://github.com" className="btn" target='_blank'>Github</a>
-        <a href="https://google.ca" className="btn btn-primary" target='_blank'>Live Demo</a>
+        <a href="https://github.com/TonyNguyy/React-Realtor" className="btn" target='_blank'>Github</a>
+        <a href="https://tony-realtor.vercel.app/" className="btn btn-primary" target='_blank'>Live Demo</a>
         </div>
       </article>
 
