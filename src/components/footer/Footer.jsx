@@ -6,6 +6,7 @@ import {FaEtsy} from "react-icons/fa"
 const Footer = () => {
   return (
     <footer>
+
       <a href="#" className='footer__logo'>TONY</a>
 
       <ul className="permalinks">
@@ -27,6 +28,7 @@ const Footer = () => {
       <div className="footer__copyright">
         <small>@Tony's Portfolio. All rights reserved.</small>
       </div>
+      
     </footer>
   )
 }

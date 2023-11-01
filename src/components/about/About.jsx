@@ -24,26 +24,28 @@ const About = () => {
             <article className='about-card'> 
             <FaAward className="about__icon"/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>3+ Years of MERN stack</small>
             </article>
 
             <article className='about-card'> 
             <BiUser className="about__icon"/>
-              <h5>Clients</h5>
-              <small>3+ Years Working</small>
+              <h5>Analytics</h5>
+              <small>3+ of professional analytic experience</small>
             </article>
 
 
             <article className='about-card'> 
             <VscFolderLibrary className="about__icon"/>
-              <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <h5>Honours Bachelor in</h5>
+              <small>in Economics and Minor in Computer Science</small>
             </article>
 
           </div>
 
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis hic, velit nam illum dolorem cupiditate tempora nostrum enim sequi sit? Vero ullam obcaecati rerum 
-            quo praesentium provident labore numquam hic?</p>
+          <p>
+          I'm a passionate economics and computer science student, always exploring the intriguing blend of data-driven insights and creative coding. Outside of my studies, I've found solace in meditation, helping me stay grounded and focused in our ever-changing world. I thrive on crafting elegant solutions to complex problems through code, relishing the thrill of turning ideas into reality. Whether I'm analyzing economic trends, creating software solutions, or enjoying a well-brewed cup of coffee, I'm on a continuous quest for knowledge, balance, and my next coding challenge.
+
+</p>
 
 
           <a href="#contact" className="btn btn-primary"> Let's Talk</a>

@@ -5,47 +5,47 @@ import { BsCheck } from 'react-icons/bs'
 const Services = () => {
   return (
     <section id='service'>
-      <h5>What I Offer</h5>
-      <h2>Services</h2>
+      <h5>Work</h5>
+      <h2>Experience</h2>
 
       <div className="container services__container">
 
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Junior Consultant | The Knowledge Academy</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>SQL Database Management</p>
             </li>
 
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Tableau Data Visualization</p>
             </li>
 
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-
-
-            <li>
-              <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>A/B Testing</p>
             </li>
 
 
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Data Analysis</p>
+            </li>
+
+
+            <li>
+              <BsCheck className="service__list-icon"/>
+              <p>Team Leadership and Collaboration</p>
             </li>
 
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Adaptability</p>
             </li>
           </ul>
         </article>
@@ -54,46 +54,43 @@ const Services = () => {
 
       <article className="service">
           <div className="service__head">
-            <h3>Web Developer</h3>
+            <h3>Investment Representative | HSBC</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Mircosoft Excel for data entry and management</p>
             </li>
 
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Client Relationship Building</p>
             </li>
 
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-
-
-            <li>
-              <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Mutual Fund and Investment understanding</p>
             </li>
 
 
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Conflict Mediation</p>
+            </li>
+
+
+            <li>
+              <BsCheck className="service__list-icon"/>
+              <p>Effective Communication</p>
             </li>
 
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Interpersonal Skills</p>
             </li>
 
-            <li>
-              <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
+           
           </ul>
         </article>
 
@@ -101,41 +98,37 @@ const Services = () => {
 
       <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Infantry Reservist | Toronto Scottish Regiment</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>"Best Candidate" at Basic Military for team work and performance</p>
             </li>
 
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Mentorship for junior soldiers</p>
             </li>
 
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-
-
-            <li>
-              <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Adaptability in high-stress environment</p>
             </li>
 
 
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Time Management</p>
             </li>
+
 
             <li>
               <BsCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Stress Management</p>
             </li>
+
           </ul>
         </article>
 
