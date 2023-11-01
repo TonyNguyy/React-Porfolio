@@ -11,7 +11,7 @@ const Experience = () => {
 
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+          <h3 id='frontend_h3'>Frontend Development</h3>
           <div className="experience__content">
 
             <article className="experience__details">
@@ -71,7 +71,7 @@ const Experience = () => {
 {/* ------------- BACKEND------------- */}
         <div className="experience__backend">
 
-        <h3>Backend Development</h3>
+        <h3 id='backend_h3'>Backend Development</h3>
           <div className="experience__content">
 
             <article className="experience__details">

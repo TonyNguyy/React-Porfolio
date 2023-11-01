@@ -40,6 +40,14 @@
     color: var(--color-primary)
 }
 
+#frontend_h3{
+    color:#ac7d32;
+}
+
+#backend_h3{
+    color:#ac7d32;
+}
+
 
 /* =========== MEDIA QUEIRES (MEDIUM DEVICES)============ */
 @media screen and (max-width:1024px){
