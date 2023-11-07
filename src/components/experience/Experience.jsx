@@ -56,6 +56,13 @@ const Experience = () => {
               </div>
             </article>
 
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>TypeScript</h4>
+              <small className="text-light">Intermediate</small>
+              </div>
+            </article>
 
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
@@ -63,6 +70,30 @@ const Experience = () => {
               <h4>React</h4>
               <small className="text-light">Experienced</small>
              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>NextJS</h4>
+              <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>API</h4>
+              <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>BootStrap</h4>
+              <small className="text-light">Experienced</small>
+              </div>
             </article>
 
           </div>
@@ -125,9 +156,39 @@ const Experience = () => {
              </div>
             </article>
 
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>Firebase</h4>
+              <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>Google Cloud</h4>
+              <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>Flask</h4>
+              <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+              <h4>Heroku</h4>
+              <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
           </div>
-
-
         </div>
       </div>
 

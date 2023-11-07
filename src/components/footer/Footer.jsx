@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer>
 
-      <a href="#" className='footer__logo'>TONY</a>
+      <a href="#" className='footer__logo'>TONY NGUYEN</a>
 
       <ul className="permalinks">
         <li><a href="#">Home</a></li>
@@ -19,10 +19,9 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://Linkein.com"><AiFillLinkedin/></a>
-        <a href="https://Linkein.com"><AiFillTwitterCircle/></a>
-        <a href="https://Linkein.com"><AiFillGithub/></a>
-        <a href="https://Linkein.com"><FaEtsy/></a>
+        <a href="https://www.linkedin.com/in/tony-nguyen-6b3577165/"><AiFillLinkedin/></a>
+        <a href="https://twitter.com/codingwithtony"><AiFillTwitterCircle/></a>
+        <a href="https://github.com/TonyNguyy"><AiFillGithub/></a>
       </div>
 
       <div className="footer__copyright">
