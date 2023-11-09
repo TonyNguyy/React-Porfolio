@@ -20,7 +20,8 @@ const Portfolio = () => {
         <div className="portfolio__item-image">
           <img src={realtor} alt="Realtor-Website" />
         </div>
-        <h3>Realtor Ecommerce Platform</h3>
+        <h3>Realtor Ecommerce Platform
+          <br /> <span>(ReactJS, Firebase, Google Cloud)</span></h3>
         <div className="portfolio__item-cta">
         <a href="https://github.com/TonyNguyy/React-Realtor" className="btn" target='_blank'>Github</a>
         <a href="https://tony-realtor.vercel.app/" className="btn btn-primary" target='_blank'>Live Demo</a>
@@ -31,7 +32,9 @@ const Portfolio = () => {
         <div className="portfolio__item-image">
           <img src={PriceHunter} alt="Portfolio-image" />
         </div>
-        <h3>PriceHunter</h3>
+        <h3>PriceHunter 
+          <br />
+          <span>(NextJS, TypeScript, Bright Data API)</span></h3>
         <div className="portfolio__item-cta">
         <a href="https://github.com/TonyNguyy/PriceHunter" className="btn" target='_blank'>Github</a>
         <a href="https://pricehunter.vercel.app/" className="btn btn-primary" target='_blank'>Live Demo</a>
@@ -43,7 +46,9 @@ const Portfolio = () => {
         <div className="portfolio__item-image">
           <img src={RenderAI} alt="Portfolio-image" />
         </div>
-        <h3>RenderAI</h3>
+        <h3>RenderAI 
+          <br />
+          <span>(NextJS, TypeScript, OpenAI API)</span></h3>
         <div className="portfolio__item-cta">
         <a href="https://github.com/TonyNguyy/RenderAI" className="btn" target='_blank'>Github</a>
         <a href="https://render-ai-image.vercel.app/" className="btn btn-primary" target='_blank'>Live Demo</a>
@@ -54,7 +59,10 @@ const Portfolio = () => {
         <div className="portfolio__item-image">
           <img src={ReadyWeather} alt="Portfolio-image" />
         </div>
-        <h3>Ready-Weather</h3>
+        <h3>Ready-Weather
+          <br />
+          <span>(NextJS, TypeScript, Weather API)</span>
+        </h3>
         <div className="portfolio__item-cta">
         <a href="https://github.com/TonyNguyy/Ready-Weather" className="btn" target='_blank'>Github</a>
         <a href="https://readyweather.vercel.app/" className="btn btn-primary" target='_blank'>Live Demo</a>
@@ -66,7 +74,12 @@ const Portfolio = () => {
         <div className="portfolio__item-image">
           <img src={InfluenceHub} alt="Portfolio-image" />
         </div>
-        <h3>InfluenceHub</h3>
+        <h3>InfluenceHub
+          <br />
+          <span>
+            (ReactJS, JavaScript, Tailwind CSS)
+          </span>
+        </h3>
         <div className="portfolio__item-cta">
         <a href="https://github.com/TonyNguyy/React-Media-Agency" className="btn" target='_blank'>Github</a>
         <a href="https://tony-agency.vercel.app/" className="btn btn-primary" target='_blank'>Live Demo</a>
@@ -78,7 +91,9 @@ const Portfolio = () => {
         <div className="portfolio__item-image">
           <img src={VirtualLibrary} alt="Portfolio-image" />
         </div>
-        <h3>Virtual Library Database (SQL)
+        <h3>Virtual Library Database 
+          <br />
+          <span>(Flask, SQL)</span>
         </h3>
         <div className="portfolio__item-cta">
         <a href="https://github.com/TonyNguyy/Flask-Virtual-Library-Database" className="btn" target='_blank'>Github</a>
